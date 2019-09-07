@@ -10,3 +10,8 @@ The CSV file contains data for all recorded gun violence incidents in the US bet
 A longitudinal data set of state firearm laws that is free to the public, including  other researchers, to support improved analysis and understanding of the effects of various laws.
 
 Both the datasets have been used in conjunction for the 2 visualizations generated using Tableau.
+
+![](anti.png)
+
+
+![](pro.png)
